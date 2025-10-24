@@ -22,7 +22,7 @@
 
 	abstract_type = /datum/traitor_objective/target_player/assassinate
 
-	progression_minimum = 30 MINUTES
+	progression_minimum = 0 MINUTES
 
 	/**
 	 * Makes the objective only set heads as targets when true, and block them from being targets when false.
